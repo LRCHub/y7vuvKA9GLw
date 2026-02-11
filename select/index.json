@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "JUST GO -KR Ver.-",
+  "base_artist": "iKON",
+  "createdAt": "2026-02-11T07:53:50.445465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "JUST GO -KR Ver.-",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/01_JUST_GO_-KR_Ver.-_iKON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUST GO -KR Ver.-",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_JUST_GO_-KR_Ver.-_iKON.txt"
+    }
+  ]
+}
